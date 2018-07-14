@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "API name check", "API name check\API name check.vbproj", "{0565C7E4-D890-4E1E-8B05-9AD4FB99D4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0565C7E4-D890-4E1E-8B05-9AD4FB99D4FF}.Debug|x86.ActiveCfg = Debug|x86
+		{0565C7E4-D890-4E1E-8B05-9AD4FB99D4FF}.Debug|x86.Build.0 = Debug|x86
+		{0565C7E4-D890-4E1E-8B05-9AD4FB99D4FF}.Release|x86.ActiveCfg = Release|x86
+		{0565C7E4-D890-4E1E-8B05-9AD4FB99D4FF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F95F7B5F-D69F-4A19-A745-3581EA27CCF6}
+	EndGlobalSection
+EndGlobal

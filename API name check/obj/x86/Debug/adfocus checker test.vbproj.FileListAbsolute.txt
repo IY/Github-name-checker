@@ -1,0 +1,22 @@
+C:\Users\Cyb3rNuX\documents\visual studio 2010\Projects\adfocus checker test\adfocus checker test\bin\Debug\adfocus checker test.exe.config
+C:\Users\Cyb3rNuX\documents\visual studio 2010\Projects\adfocus checker test\adfocus checker test\bin\Debug\adfocus checker test.exe
+C:\Users\Cyb3rNuX\documents\visual studio 2010\Projects\adfocus checker test\adfocus checker test\bin\Debug\adfocus checker test.pdb
+C:\Users\Cyb3rNuX\documents\visual studio 2010\Projects\adfocus checker test\adfocus checker test\bin\Debug\adfocus checker test.xml
+C:\Users\Cyb3rNuX\documents\visual studio 2010\Projects\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus_checker_test.Form1.resources
+C:\Users\Cyb3rNuX\documents\visual studio 2010\Projects\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus_checker_test.Resources.resources
+C:\Users\Cyb3rNuX\documents\visual studio 2010\Projects\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus checker test.vbproj.GenerateResource.Cache
+C:\Users\Cyb3rNuX\documents\visual studio 2010\Projects\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus checker test.exe
+C:\Users\Cyb3rNuX\documents\visual studio 2010\Projects\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus checker test.xml
+C:\Users\Cyb3rNuX\documents\visual studio 2010\Projects\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus checker test.pdb
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\bin\Debug\adfocus checker test.exe.config
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\bin\Debug\adfocus checker test.exe
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\bin\Debug\adfocus checker test.pdb
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\bin\Debug\adfocus checker test.xml
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus checker test.vbprojAssemblyReference.cache
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus_checker_test.Form1.resources
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus_checker_test.Resources.resources
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus checker test.vbproj.GenerateResource.cache
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus checker test.vbproj.CoreCompileInputs.cache
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus checker test.exe
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus checker test.xml
+C:\Users\r\Documents\adfocus checker test\adfocus checker test\obj\x86\Debug\adfocus checker test.pdb
